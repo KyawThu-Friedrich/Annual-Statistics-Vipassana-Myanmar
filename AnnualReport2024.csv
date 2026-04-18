@@ -1,0 +1,50 @@
+Year,Place,Country,Center,CourseType,Courses,NewMale,NewFemale,NewTotal,OldMale,OldFemale,OldTotal,StudentTotal,ServerMale,ServerFemale,ServerTotal,Type- Centre/Non Centre
+2024,South East Asia,Myanmar,Maha Pabbata,10 Day Course,10,70,212,282,118,234,352,634,40,85,125,Centre
+2024,South East Asia,Myanmar,Shwe,10 Day Course,5,10,29,39,27,79,106,145,16,30,46,Centre
+2024,South East Asia,Myanmar,Mittayana,10 Day Course,4,8,18,26,25,47,72,98,9,16,25,Centre
+2024,South East Asia,Myanmar,Pabbata,10 Day Course,1,0,0,0,12,48,60,60,3,5,8,Centre
+2024,South East Asia,Myanmar,Manohara,10 Day Course,6,13,51,64,28,92,120,184,11,31,42,Centre
+2024,South East Asia,Myanmar,Makuta,10 Day Course,4,30,59,89,109,121,230,319,20,25,45,Centre
+2024,South East Asia,Myanmar,Manorama,10 Day Course,4,8,33,41,33,89,122,163,6,11,17,Centre
+2024,South East Asia,Myanmar,Joti,10 Day Course,13,198,395,593,283,584,867,1460,75,162,237,Centre
+2024,South East Asia,Myanmar,Nidhi,10 Day Course,10,97,154,251,195,294,489,740,33,45,78,Centre
+2024,South East Asia,Myanmar,Mandala,10 Day Course,11,94,206,300,270,448,718,1018,50,65,115,Centre
+2024,South East Asia,Myanmar,Nanadhaja,10 Day Course,1,8,14,22,14,20,34,56,7,9,16,Centre
+2024,South East Asia,Myanmar,Mahima,10 Day Course,16,254,433,687,367,594,961,1648,41,63,104,Centre
+2024,South East Asia,Myanmar,Sangam,10 Day Course,3,22,34,56,39,68,107,163,11,26,37,Centre
+2024,South East Asia,Myanmar,Mani,10 Day Course,1,1,3,4,3,5,8,12,3,2,5,Centre
+2024,South East Asia,Myanmar,Mayuradipa,10 Day Course,6,24,37,61,51,120,171,232,12,22,34,Centre
+2024,South East Asia,Myanmar,Manohara,STP Course,1,,,,8,18,26,26,1,4,5,Centre
+2024,South East Asia,Myanmar,Manorama,STP Course,1,,,,11,26,37,37,2,2,4,Centre
+2024,South East Asia,Myanmar,Joti,STP Course,2,,,,43,83,126,126,4,18,22,Centre
+2024,South East Asia,Myanmar,Nidhi,STP Course,2,,,,25,94,119,119,5,8,13,Centre
+2024,South East Asia,Myanmar,Mahima,STP Course,1,,,,33,69,102,102,2,3,5,Centre
+2024,South East Asia,Myanmar,Sangam,STP Course,1,,,,11,27,38,38,2,8,10,Centre
+2024,South East Asia,Myanmar,Mani,STP Course,1,,,,14,6,20,20,3,1,4,Centre
+2024,South East Asia,Myanmar,Mandala,STP Course,1,,,,28,49,77,77,5,5,10,Centre
+2024,South East Asia,Myanmar,Nidhi,20 Day Course,1,,,,9,24,33,33,5,8,13,Centre
+2024,South East Asia,Myanmar,Mandala,20 Day Course,1,,,,15,15,30,30,3,2,5,Centre
+2024,South East Asia,Myanmar,Makuta,20 Day Course,1,,,,15,25,40,40,4,4,8,Centre
+2024,South East Asia,Myanmar,Mahima,20 Day Course,1,,,,19,38,57,57,2,2,4,Centre
+2024,South East Asia,Myanmar,Nidhi,30 Day Course,1,,,,41,61,102,102,2,3,5,Centre
+2024,South East Asia,Myanmar,Nidhi,10 Day Special Course,1,,,,3,33,36,36,1,3,4,Centre
+2024,South East Asia,Myanmar,Mandala,10 Day Special Course,1,,,,36,62,98,98,3,3,6,Centre
+2024,South East Asia,Myanmar,Mahima,10 Day Special Course,1,,,,27,55,82,82,2,3,5,Centre
+2024,South East Asia,Myanmar,Manorama,Teenager Course,2,,,,15,18,33,33,2,5,7,Centre
+2024,South East Asia,Myanmar,Joti,Teenager Course,2,,,,24,22,46,46,0,14,14,Centre
+2024,South East Asia,Myanmar,Mahima,Teenager Course,1,,,,0,33,33,33,0,7,7,Centre
+2024,South East Asia,Myanmar,Manohara,Teenager Course,1,,,,0,32,32,32,0,4,4,Centre
+2024,South East Asia,Myanmar,Magga,1 Day Course,24,,,,,,448,448,28,60,88,Centre
+2024,South East Asia,Myanmar,Manorama,1 Day Course,8,,,,,,167,167,8,8,16,Centre
+2024,South East Asia,Myanmar,Ratana,1 Day Course,19,,,,,,1357,1357,16,16,32,Centre
+2024,South East Asia,Myanmar,Joti,1 Day Course,5,,,,,,602,602,10,23,33,Centre
+2024,South East Asia,Myanmar,Nanadhaja,1 Day Course,6,,,,,,388,388,36,43,79,Centre
+2024,South East Asia,Myanmar,Mandala,1 Day Course,8,,,,,,671,671,21,19,40,Centre
+2024,South East Asia,Myanmar,Mahima,1 Day Course,6,,,,,,207,207,6,6,12,Centre
+2024,South East Asia,Myanmar,Shwe,1 Day Course,10,,,,,,433,433,20,42,62,Centre
+2024,South East Asia,Myanmar,Manohara,1 Day Course,2,,,,,,24,24,1,1,2,Centre
+2024,South East Asia,Myanmar,Mandala,2 Day Course,2,,,,,,139,139,6,5,11,Centre
+2024,South East Asia,Myanmar,Manohara,2 Day Course,1,,,,,,13,13,1,1,2,Centre
+2024,South East Asia,Myanmar,Joti,3 Day,4,,,,,,433,433,10,25,35,Centre
+2024,South East Asia,Myanmar,Mandala,3 Day,1,,,,,,72,72,21,19,40,Centre
+2024,South East Asia,Myanmar,Nanadhaja,3 Day,1,,,,,,17,17,4,3,7,Centre
